@@ -8,6 +8,6 @@ const contactSchema = new Schema({
 
 
 // Create a model or a collection
-const Contact = new model('Contact',contactSchema)
+const Contact = new model('Contact',contactSchema);
 
 module.exports = Contact;
