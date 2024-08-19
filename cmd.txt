@@ -11,3 +11,6 @@ secure passord: npm i bcryptjs
 json web token: npm i jsonwebtoken
 
 zod for validation: npm i zod
+
+
+resolve issue of cors: npm i cors
